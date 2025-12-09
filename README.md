@@ -1,8 +1,8 @@
 ## Hi there 👋
 
+<!--
 [![Charlotte's GitHub stats (public repos)](https://github-readme-stats.vercel.app/api?username=csoneson&show=reviews,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
 **csoneson/csoneson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
